@@ -2,7 +2,9 @@
 
 Paris Olympics 2024 event 
 
-Description: This project analyzes 2.8 million rows of data using SQL and Excel to help an agency in Chicago improve service ticket resolution time by understanding where to focus their resources on first. After exploring the data, I create a priority quadrant based on two selected metrics, plot the data against the quadrant, cross-validate the findings with data from New York City, and deep-dive to find more patterns at district level.
+<b>Goal:</b> The goal of this project is to identify the trends in the previously organised olympic games, specifically to see the analysis and data visualisation for the athletes, medals, events etc.  By performing a data analysis using Data Flow in Azure Data Factory, this project aims to provide valuable insights that can help tell a story and assist in making informed decisions about the olympic games, which country won highest the number of medals, countries with the highest medals.
+
+<b>Description:</b> This project analyzes 2.8 million rows of data using SQL and Excel to help an agency in Chicago improve service ticket resolution time by understanding where to focus their resources on first. After exploring the data, I create a priority quadrant based on two selected metrics, plot the data against the quadrant, cross-validate the findings with data from New York City, and deep-dive to find more patterns at district level.
 
 Tools: PostgreSQL, Excel, and PowerPoint.
 
