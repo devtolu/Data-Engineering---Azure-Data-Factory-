@@ -8,13 +8,12 @@ This project provides a data engineering and anlytical journey into the Tokyo Ol
 <B>ARCHITECTURE</B><BR>
 ![architecture](https://github.com/user-attachments/assets/09cd50f0-3d03-4b16-ba03-720eadf3c56e)
 
-
-
-<b>Goal:</b> The goal of this project is to identify the trends in the previously organised olympic games, specifically to see the analysis and data visualisation for the athletes, medals, events etc.  By performing a data analysis using Data Flow in Azure Data Factory, this project aims to provide valuable insights that can help tell a story and assist in making informed decisions about the olympic games, which country won highest the number of medals, countries with the highest medals.
+<b>Dataset Used:</b> The data contains details of  goal of this project is to identify the trends in the previously organised olympic games, specifically to see the analysis and data visualisation for the athletes, medals, events etc.  By performing a data analysis using Data Flow in Azure Data Factory, this project aims to provide valuable insights that can help tell a story and assist in making informed decisions about the olympic games, which country won highest the number of medals, countries with the highest medals.
 
 Tools: Azure Data Factory (Azure), and Power BI.
 
 Skills: Azure(Transformation using Data Flow, Azure Blob Storage) Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
+
 
 Outputs:
 The output was presented in Power BI as seen below: 
