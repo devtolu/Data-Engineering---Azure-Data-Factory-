@@ -17,4 +17,4 @@ Skills: Azure(Transformation using Data Flow, Azure Blob Storage) Data querying,
 
 Outputs:
 The output was presented in Power BI as seen below: 
-![architecture](https://github.com/user-attachments/assets/09cd50f0-3d03-4b16-ba03-720eadf3c56e)
+
