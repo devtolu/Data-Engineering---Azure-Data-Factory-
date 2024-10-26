@@ -3,7 +3,9 @@
 <B>Paris Olympics 2024 event</B>
 
 <B>DESCRIPTION</B><BR>
-This project provides a data engineering and anlytical journey into the Tokyo Olympic games dataset. Starting with CSVs on GitHub, the data is ingested into the Azure ecosystem via Azure Data Factory. It's initially stored in Azure Blob Storage after which transformation is carried out in the Azure Data Factory using Data Flows and then moved to Azure Data Lake Storage Gen2. The enriched data, once again housed in ADLS Gen2, undergoes advanced analytics in Azure Synapse. The insights are finally visualized in Azure Synapse or Power BI, offering a comprehensive view of the dataset.
+This project provides a data engineering and anlytical journey into the Olympic games dataset. Starting with CSVs on GitHub, the data is ingested into the Azure ecosystem via Azure Data Factory data pipelines. It's initially stored in Azure Blob Storage after which transformation is carried out in Databricks, and then moved to Azure Data Lake Storage Gen2. The enriched data, once again housed in ADLS Gen2, undergoes advanced analytics in Azure Synapse. The data is finally accessed for analysis in Azure Synapse after which visualization is carried out in Power BI, offering a comprehensive view of the dataset. 
+
+A robust ETL pipeline is explored using a suite of azure services: Azure Data Factory, Azure Databricks, Azure synapse Analytics, and Azure Data Lake Storage Gen2. 
 
  <B>ARCHITECTURE</B><BR>
 
