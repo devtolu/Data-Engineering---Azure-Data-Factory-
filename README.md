@@ -1,4 +1,4 @@
-# Data Engineering End to End - Azure Data Factory | Databricks | Power BI
+# Data Engineering End to End - Azure Data Factory | Databricks | Azure Synapse Analytics | Power BI
 
 <B>Paris Olympics 2024 event</B>
 
