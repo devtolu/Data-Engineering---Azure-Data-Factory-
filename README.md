@@ -28,6 +28,25 @@ Skills: Azure(Data Ingestion, Transformation using Databricks, Azure Blob Storag
 
 <B>Workflow </B>
 
+The complete workflow is broken down into several tasks, that are listed below:
+
+1. Creation of Azure Subscription and Resource Group
+
+2. Creation of a storage container. <br>
+   An azure storage account (olympic-data) was setup and three folders were created, <b>input-data</b>, <b>raw-data</b>, and <b>transformed-data</b> were created within the storage account. The data analysis data used were ingested from this github account which can be found in the "Olympics_Data" folder.     
+
+   ![iScreen Shoter - Google Chrome - 241021045746](https://github.com/user-attachments/assets/db649ba4-ced4-40e6-9e11-d46c9588d554)
+
+
+
+![iScreen Shoter - Google Chrome - 241021045316](https://github.com/user-attachments/assets/a18e4df4-225b-4b9f-887f-622f35a1da79)
+
+
+
+   
+
+
+
 
 
 
