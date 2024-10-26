@@ -19,7 +19,13 @@ Azure synapse Analytics  - Final data analysis carried out in the cloud-based an
 Azure Data Lake Storage Gen2  - A scalable and secured could storage service built for data analytics <BR>
 Power BI  - Data visualisation. <BR>
 
-Skills: Azure(Transformation using Data Flow, Azure Blob Storage) Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
+Skills: Azure(Data Ingestion, Transformation using Databricks, Azure Blob Storage for storage) Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
+
+Environment Set up:
+
+![setup-environment](https://github.com/user-attachments/assets/1ce700e5-5caa-4562-83a7-1239ce0b45f1)
+
+
 
 
 
