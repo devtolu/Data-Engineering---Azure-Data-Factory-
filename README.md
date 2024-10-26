@@ -12,12 +12,12 @@ This project provides a data engineering and anlytical journey into the Olympic 
 
 A robust ETL pipeline is explored using a suite of azure services: Azure Data Factory, Azure Databricks, Azure synapse Analytics, and Azure Data Lake Storage Gen2. 
 
-<B>Tools and Services : </B>
-Azure Data Factory
-Azure Databricks 
-Azure synapse Analytics
-Azure Data Lake Storage Gen2 and 
-Power BI.
+<B>Tools and Services : </B><BR>
+Azure Data Factory  - Raw and transformed data storage, data integration service for data ingestion, transformatation. <BR>
+Azure Databricks  - Data processing and transformation on an Apache Spark-based analytics platform. <BR>
+Azure synapse Analytics  - Final data analysis carried out in the cloud-based analytics service using SQL queries. <BR>
+Azure Data Lake Storage Gen2  - A scalable and secured could storage service built for data analytics <BR>
+Power BI  - Data visualisation. <BR>
 
 Skills: Azure(Transformation using Data Flow, Azure Blob Storage) Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
