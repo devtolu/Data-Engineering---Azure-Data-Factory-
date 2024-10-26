@@ -37,7 +37,8 @@ The complete workflow is broken down into several tasks, that are listed below:
 
    ![iScreen Shoter - Google Chrome - 241021045746](https://github.com/user-attachments/assets/db649ba4-ced4-40e6-9e11-d46c9588d554)
 
-
+3. Creation of Azure Data Factory Studio, launch the studio and carry out data ingestion. <br>
+   The raw files were linked 
 
 ![iScreen Shoter - Google Chrome - 241021045316](https://github.com/user-attachments/assets/a18e4df4-225b-4b9f-887f-622f35a1da79)
 
