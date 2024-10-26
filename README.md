@@ -21,9 +21,12 @@ Power BI  - Data visualisation. <BR>
 
 Skills: Azure(Data Ingestion, Transformation using Databricks, Azure Blob Storage for storage) Data querying, data validation, JOINs & UNION clauses, aggregation, datetime convertion, filtering, subqueries, CTEs, conditions, PivotTables, Pivot Charts, and presentation.
 
-Environment Set up:
+<B>Environment Set up: </B>
 
 ![setup-environment](https://github.com/user-attachments/assets/bfecc8b2-e2b3-4f66-a6e7-52f481dd5533)
+
+
+<B>Workflow </B>
 
 
 
