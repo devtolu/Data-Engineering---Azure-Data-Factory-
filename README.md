@@ -23,7 +23,8 @@ Skills: Azure(Data Ingestion, Transformation using Databricks, Azure Blob Storag
 
 Environment Set up:
 
-![setup-environment](https://github.com/user-attachments/assets/fcce3f99-3ead-49f9-aef4-e171b9ae4f18)
+![setup-environment](https://github.com/user-attachments/assets/bfecc8b2-e2b3-4f66-a6e7-52f481dd5533)
+
 
 
 
