@@ -65,8 +65,34 @@ After the creation of databricks workspace, a notebook is created and codes were
 ![iScreen Shoter - Google Chrome - 241021050327](https://github.com/user-attachments/assets/fa3e86dd-3b84-4865-a5e3-e77b85de5e1f)
 
 
-6. The configuration settings are generated and included in the config code as seen below.
+6. The configuration settings are generated and included in the config code as seen below. necessary functions and types from pyspark are imported, then the azure storage configurations are defined, followed by the mounting of Azure data lake storage Gen2 to the databricks filesystem.
+   
 ![Vector](https://github.com/user-attachments/assets/4f438790-ead8-4da4-8ac8-9869744d062c)
+
+7. The csv files that were ingested into the storage container file directory "raw-data" is read into spark dataframes as seen in the screenshot below.
+
+![iScreen Shoter - Google Chrome - 241023051559](https://github.com/user-attachments/assets/732e9573-04b4-40d9-a97c-e71d2537276d)
+
+The content of a dataframe is shown to see the data as seen in the next screenshot.
+
+![iScreen Shoter - Google Chrome - 241023051616](https://github.com/user-attachments/assets/09f3a573-c650-4237-9c9b-7bbf03d6d631)
+
+After seeing the data, the schema is printed to review the schema if it requires modification. See the schema below for the dataframe shown above.
+
+![iScreen Shoter - Google Chrome - 241023051630](https://github.com/user-attachments/assets/d3b3e534-e762-41cd-bef2-5f0a73036143)
+
+Subsequently, all other dataframes are reviewed showing the contents and printing the schema as seen below for two dataframes.
+
+![iScreen Shoter - Google Chrome - 241023051646](https://github.com/user-attachments/assets/e20b33da-0703-4eb0-8507-5de75276e7e3)
+
+
+![iScreen Shoter - Google Chrome - 241023051915](https://github.com/user-attachments/assets/4c94ec4d-d804-4dde-9a96-0bcb20c037ef)
+
+Looking at the medals dataframe above the code column has a string datatype, this column should be an integer, the column is then converted to the appropriate data type of integer as seen below.
+
+![iScreen Shoter - Google Chrome - 241023051941](https://github.com/user-attachments/assets/230f1788-802d-424b-9ba7-63f753430af7)
+
+
 
 
 
