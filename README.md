@@ -43,7 +43,7 @@ The complete workflow is broken down into several tasks, that are listed below:
 ![iScreen Shoter - Google Chrome - 241021045316](https://github.com/user-attachments/assets/a18e4df4-225b-4b9f-887f-622f35a1da79)
 
 
-
+The raw files were linked
    
 
 
