@@ -65,7 +65,9 @@ After the creation of databricks workspace, a notebook is created and codes were
 ![iScreen Shoter - Google Chrome - 241021050327](https://github.com/user-attachments/assets/fa3e86dd-3b84-4865-a5e3-e77b85de5e1f)
 
 
-![iScreen Shoter - Google Chrome - 241023051350 1](https://github.com/user-attachments/assets/09f4e118-c9bd-4bb9-88e5-2ab89745b103)
+6. The configuration settings are generated and included in the config code as seen below.
+![Vector](https://github.com/user-attachments/assets/4f438790-ead8-4da4-8ac8-9869744d062c)
+
 
 
 Outputs:
