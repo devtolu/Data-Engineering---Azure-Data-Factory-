@@ -38,13 +38,21 @@ The complete workflow is broken down into several tasks, that are listed below:
    ![iScreen Shoter - Google Chrome - 241021045746](https://github.com/user-attachments/assets/db649ba4-ced4-40e6-9e11-d46c9588d554)
 
 3. Creation of Azure Data Factory Studio, launch the studio and carry out data ingestion. <br>
-   The raw files were linked 
-
+   
 ![iScreen Shoter - Google Chrome - 241021045316](https://github.com/user-attachments/assets/a18e4df4-225b-4b9f-887f-622f35a1da79)
 
+Select pipeline and create a pipeline to ingest data, by creating a new dataset selecting HTTP as the data store with a corresponding linked service and use the github link to select the raw file for the olympic csv files. 
 
-The raw files were linked
-   
+![iScreen Shoter - Google Chrome - 241021045922](https://github.com/user-attachments/assets/a3438d7b-5375-4be1-a65d-1b1f4414b10b)
+
+
+After the raw files in csv format were linked as datasets, trigger the pipeline to ingest data for all data sets created as shown in the screenshots for 9 csv files. 
+
+![iScreen Shoter - Google Chrome - 241021045434](https://github.com/user-attachments/assets/c52916d8-b636-4b34-8d39-7fdb0c715515)
+
+The data is copied from the individual csv files to the datasets created as shown in the activity names, the status of the copy can be monitored to know when it is in progress, and if it succeeded or failed as seen in the screenshot above.
+
+
 
 
 
