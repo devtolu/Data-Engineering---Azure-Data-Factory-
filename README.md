@@ -98,3 +98,28 @@ Looking at the medals dataframe above the code column has a string datatype, thi
 
 Outputs:
 The output was presented in Power BI as seen below: 
+
+Data analysis using Power BI involves several steps to transform, visualize, and gain insights from the data. However, the transformation had already been carried out in Azure Databricks.
+
+The following was performed in Power BI
+
+Data Collection and Import: The data was imported from the processed data from Azure (ADF) as CSV.
+
+Data Transformation and Cleaning: Date of birth column was used to generate the age column, conditional columns were created to analyse the medallists table.
+
+Data Modeling: Relationships were created between tables (Athletes, Medallists, Medals Table). Primary and foreign keys were used to enable data modeling.
+
+Data Visualization: Visualizations were built to help you understand the data. 
+
+Data Analysis and Calculation: DAX (Data Analysis Expressions) was used to create calculated columns and measures that provide deeper insights into the data. DAX is a formula language specific to Power BI.
+
+Dashboard Creation: Visualizations were assembled into a cohesive dashboard consisting of the following visuals, slicers, with a user-friendly layout for easy consumption.
+
+Interactivity: Filters, slicers, and drill-through actions were put in place. 
+
+![Dashboard](https://github.com/user-attachments/assets/3fe43757-1860-4cb3-8715-9cfccd0a2dcf)
+
+[Olympics Dashboard 2024.pdf](https://github.com/user-attachments/files/17793985/Olympics.Dashboard.2024.pdf)
+
+
+
